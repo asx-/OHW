@@ -1,0 +1,13 @@
+Title;1;2;3
+Big Data / Cloud Computing (Pangeo, Xarray, Dask);4;5;5
+Machine Learning (Scikit-learn);5;8;1
+Visualization (Holoviews, Cartopy);8;8;4
+Open Science;5;6;5
+Data Preparation;4;4;6
+Automated Pipelines;1;1;9
+Structured Data (Standard Vocabularies, netCDF);5;2;4
+Reproducible Science (FAIR);5;4;3
+Large Project Datasets (Argo, OOI, GO-SHIP);10;6;7
+Field Setup / Software Infrastructure;2;2;4
+Software Engineering Best Practices;4;7;2
+Raw Sensor Data / Sensor Interfaces;3;3;3
